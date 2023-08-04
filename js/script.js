@@ -1,7 +1,7 @@
 // creating page header
 let header = document.createElement("header");
 header.className = "container text-center text-bg-dark fs-1";
-header.textContent = "Day 18 Task - Fetch API";
+header.textContent = "Country & temp Fetch API";
 document.body.append(header);
 
 /*----------------------------------- */
